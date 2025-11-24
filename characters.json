@@ -32,7 +32,7 @@
             "magic": 20,
             "agility": 60
         },
-        "image": "https://placehold.co/300x400/1a1a1a/c0a060?text=Pentragon",
+        "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/pentragon.jpeg",
         "details": {
             "full_name": "Pentragon Perceval Pembroke",
             "origin": "Azeroth",
@@ -54,7 +54,7 @@
             "magic": 95,
             "agility": 40
         },
-        "image": "https://placehold.co/300x400/1a1a1a/6a0dad?text=Adorhlee",
+        "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/adorhlee_sombre.jpg",
         "details": {
             "full_name": "Adorhlee Annya Lockwood",
             "origin": "Hurlevent",
