@@ -1,16 +1,24 @@
 [
     {
         "id": 1,
-        "name": "Aelthos",
-        "class": "Nécromancien",
-        "level": 54,
-        "bio": "Un maître des arts sombres qui a pactisé avec les ombres pour sauver son village, mais qui a fini par le condamner.",
+        "name": "Lyvia Hastingworth",
+        "class": "Nécromancienne",
+        "level": 60,
+        "bio": "Nécromancienne manipulant les forces obscures. Elle possède un teint porcelaine, des yeux gris acier/bleu turquoise et une longue chevelure noire.",
         "stats": {
             "strength": 20,
-            "magic": 85,
-            "agility": 30
+            "magic": 98,
+            "agility": 40
         },
-        "image": "https://placehold.co/300x400/1a1a1a/8a0b0b?text=Aelthos"
+        "image": "https://placehold.co/300x400/1a1a1a/8a0b0b?text=Lyvia",
+        "details": {
+            "full_name": "Lyvia Elsinore Selene Hastingworth",
+            "origin": "Sanctuaire",
+            "age": "29 ans",
+            "status": "Morte (Réssuscitée sous l’influence du Vide)",
+            "allies": "Pentragon, Eowyn, Xal’atath",
+            "enemies": "Xal’atath, Forces du Vide"
+        }
     },
     {
         "id": 2,
