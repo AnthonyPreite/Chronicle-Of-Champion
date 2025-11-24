@@ -16,34 +16,53 @@
             "origin": "Sanctuaire",
             "age": "29 ans",
             "status": "Morte (Réssuscitée sous l’influence du Vide)",
-            "allies": "Pentragon, Eowyn, Xal’atath",
-            "enemies": "Xal’atath, Forces du Vide"
+            "allies": "Pentragon Perceval Pembroke, Eowyn Kaldira, Xal’atath (sous influence)",
+            "enemies": "Xal’atath, forces du Vide",
+            "relations": "N/A"
         }
     },
     {
         "id": 2,
-        "name": "Kaelen",
-        "class": "Barbare",
-        "level": 48,
-        "bio": "Guerrier des steppes du Nord, sa rage est aussi inépuisable que sa soif de vengeance contre les démons.",
+        "name": "Pentragon Pembroke",
+        "class": "Guerrier",
+        "level": 50,
+        "bio": "Garde Du Lion et Seigneur de bataille. Il maîtrise les arts martiaux et le pouvoir des Valarjars.",
         "stats": {
-            "strength": 90,
-            "magic": 10,
-            "agility": 45
+            "strength": 95,
+            "magic": 20,
+            "agility": 60
         },
-        "image": "https://placehold.co/300x400/1a1a1a/c0a060?text=Kaelen"
+        "image": "https://placehold.co/300x400/1a1a1a/c0a060?text=Pentragon",
+        "details": {
+            "full_name": "Pentragon Perceval Pembroke",
+            "origin": "Azeroth",
+            "age": "44 ans (War Within) + 6 retour Sanctuaire",
+            "status": "Mort (Réssuscité par Lyvia)",
+            "allies": "Adorhlee Lockwood, Theodora Rutherford, Alisthair Lockwood, Lyvia Hastingworth",
+            "enemies": "Xal’atath, forces du Vide, la horde",
+            "relations": "Jaina Portvaillant (Grand amour), Taelia Fordragon (flirt)"
+        }
     },
     {
         "id": 3,
-        "name": "Lyra",
-        "class": "Voleuse",
-        "level": 60,
-        "bio": "Une ombre parmi les ombres. Elle ne rate jamais sa cible, et son prix est toujours élevé.",
+        "name": "Adorhlee Lockwood",
+        "class": "Prêtresse",
+        "level": 45,
+        "bio": "Grande Prêtresse de la cathédrale de Hurlevent, manipulant la lumière et l'ombre.",
         "stats": {
-            "strength": 35,
-            "magic": 25,
-            "agility": 95
+            "strength": 15,
+            "magic": 95,
+            "agility": 40
         },
-        "image": "https://placehold.co/300x400/1a1a1a/444444?text=Lyra"
+        "image": "https://placehold.co/300x400/1a1a1a/6a0dad?text=Adorhlee",
+        "details": {
+            "full_name": "Adorhlee Annya Lockwood",
+            "origin": "Hurlevent",
+            "age": "29 ans (War Within)",
+            "status": "Vivante",
+            "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
+            "enemies": "Xal’atath, forces du Vide, Dimensius",
+            "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
+        }
     }
 ]
