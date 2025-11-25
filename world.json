@@ -1,0 +1,21 @@
+{
+    "status": {
+        "corruption": "Élevée",
+        "moon": "Rouge Sang"
+    },
+    "region": "Terres Désolées",
+    "events": [
+        {
+            "date": "24 Nov",
+            "description": "Une faille s'est ouverte au Nord."
+        },
+        {
+            "date": "22 Nov",
+            "description": "Le Roi Squelette s'éveille."
+        },
+        {
+            "date": "20 Nov",
+            "description": "Pluie de cendres sur la capitale."
+        }
+    ]
+}
