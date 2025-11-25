@@ -64,5 +64,27 @@
             "enemies": "Xal’atath, forces du Vide, Dimensius",
             "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
         }
+    },
+     {
+        "id": 4,
+        "name": "Alisthair Lockwood",
+        "class": "Paladin",
+        "level": 45,
+        "bio": "Défenseur de la lumière",
+        "stats": {
+            "strength": 15,
+            "magic": 95,
+            "agility": 40
+        },
+        "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/adorhlee_sombre.jpg",
+        "details": {
+            "full_name": "Alisthair Ignatius Lockwood",
+            "origin": "Hurlevent",
+            "age": "29 ans (War Within)",
+            "status": "Vivante",
+            "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
+            "enemies": "Xal’atath, forces du Vide, Dimensius",
+            "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
+        }
     }
 ]
