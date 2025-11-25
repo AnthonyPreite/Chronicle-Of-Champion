@@ -19,7 +19,17 @@
             "allies": "Pentragon Perceval Pembroke, Eowyn Kaldira, Xal’atath (sous influence)",
             "enemies": "Xal’atath, forces du Vide",
             "relations": "N/A"
-        }
+        },
+        "history": [
+            {
+                "title": "Chapitre 1 : L'Éveil du Nécromant",
+                "content": "Née dans les cryptes de l'ancien monde, Lyvia a toujours senti l'appel des morts. Son premier contact avec l'au-delà fut..."
+            },
+            {
+                "title": "Chapitre 2 : La Chute",
+                "content": "Lors de la grande guerre, elle tenta de sauver son village en relevant les ancêtres, mais le prix à payer fut terrible..."
+            }
+        ]
     },
     {
         "id": 2,
@@ -41,7 +51,17 @@
             "allies": "Adorhlee Lockwood, Theodora Rutherford, Alisthair Lockwood, Lyvia Hastingworth",
             "enemies": "Xal’atath, forces du Vide, la horde",
             "relations": "Jaina Portvaillant (Grand amour), Taelia Fordragon (flirt)"
-        }
+        },
+        "history": [
+            {
+                "title": "Chapitre 1 : Le Serment du Lion",
+                "content": "Pentragon a juré fidélité au roi dès son plus jeune âge. Son épée n'a jamais failli..."
+            },
+            {
+                "title": "Chapitre 2 : La Bataille des Cendres",
+                "content": "C'est sur le champ de bataille des Cendres qu'il gagna son titre, repoussant seul une horde de démons..."
+            }
+        ]
     },
     {
         "id": 3,
@@ -63,9 +83,15 @@
             "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
             "enemies": "Xal’atath, forces du Vide, Dimensius",
             "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
-        }
+        },
+        "history": [
+            {
+                "title": "Chapitre 1 : La Lumière et l'Ombre",
+                "content": "Adorhlee a toujours marché sur la ligne fine entre la lumière sacrée et les ombres insondables..."
+            }
+        ]
     },
-     {
+    {
         "id": 4,
         "name": "Alisthair Lockwood",
         "class": "Paladin",
@@ -85,6 +111,12 @@
             "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
             "enemies": "Xal’atath, forces du Vide, Dimensius",
             "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
-        }
+        },
+        "history": [
+            {
+                "title": "Chapitre 1 : Le Bouclier de Hurlevent",
+                "content": "Alisthair a dédié sa vie à la protection des faibles. Son bouclier est un symbole d'espoir..."
+            }
+        ]
     }
 ]
