@@ -1,7 +1,8 @@
 {
     "status": {
-        "corruption": "Élevée",
-        "moon": "Rouge Sang"
+        "Epoque": "The War Within",
+        "Menace": "Elevée",
+        "Ennemi": "Xal'Atath"
     },
     "region": "Terres Désolées",
     "events": [
