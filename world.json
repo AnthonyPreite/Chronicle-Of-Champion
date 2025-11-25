@@ -1,8 +1,8 @@
 {
     "status": {
-        "Epoque": "The War Within",
-        "Menace": "Elevée",
-        "Ennemi": "Xal'Atath"
+        "epoque": "The War Within",
+        "menace": "Elevée",
+        "ennemi": "Xal'Atath"
     },
     "region": "Terres Désolées",
     "events": [
