@@ -80,7 +80,7 @@
         "details": {
             "full_name": "Adorhlee Annya Lockwood",
             "origin": "Azeroth",
-            "origin_town":"Hurelevent",
+            "origin_town":"Hurlevent",
             "age": "29 ans (War Within)",
             "status": "Vivante",
             "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
@@ -113,6 +113,35 @@
             "age": "29 ans (War Within)",
             "status": "Vivante",
             "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
+            "enemies": "Xal’atath, forces du Vide, Dimensius",
+            "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
+        },
+        "history": [
+            {
+                "title": "Chapitre 1 : Le Bouclier de Hurlevent",
+                "content": "Alisthair a dédié sa vie à la protection des faibles. Son bouclier est un symbole d'espoir..."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Theodora Rutherford",
+        "class": "Voleuse",
+        "level": 45,
+        "bio": "Voleuse de Dalaran",
+        "stats": {
+            "strength": 15,
+            "magic": 95,
+            "agility": 40
+        },
+        "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/alisthair.jpeg",
+        "details": {
+            "full_name": "Theodora Rutherford",
+            "origin": "Azeroth",
+            "origin_town":"Hurlevent",
+            "age": "29 ans (War Within)",
+            "status": "Vivante",
+            "allies": "Pentragon, Adorhlee, Alisthair, Xal’atath (sous influence)",
             "enemies": "Xal’atath, forces du Vide, Dimensius",
             "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
         },
