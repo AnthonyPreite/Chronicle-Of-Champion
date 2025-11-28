@@ -151,5 +151,34 @@
                 "content": "Alisthair a dédié sa vie à la protection des faibles. Son bouclier est un symbole d'espoir..."
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "Sylvara Madeleon",
+        "class": "Démoniste",
+        "level": 45,
+        "bio": "Sylvara de Lordaeron",
+        "stats": {
+            "strength": 15,
+            "magic": 95,
+            "agility": 40
+        },
+        "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/theodora.jpeg",
+        "details": {
+            "full_name": "Sylvara Madeleon",
+            "origin": "Azeroth",
+            "origin_town":"Hurlevent",
+            "age": "29 ans (War Within)",
+            "status": "Vivante",
+            "allies": "Pentragon, Adorhlee, Alisthair, Xal’atath (sous influence)",
+            "enemies": "Xal’atath, forces du Vide, Dimensius",
+            "relations": "Anduin Wrynn (Grand amour), Irion (flirt)"
+        },
+        "history": [
+            {
+                "title": "Chapitre 1 : Le Bouclier de Hurlevent",
+                "content": "Alisthair a dédié sa vie à la protection des faibles. Son bouclier est un symbole d'espoir..."
+            }
+        ]
     }
 ]
