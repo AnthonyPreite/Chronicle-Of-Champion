@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Lyvia Hastingworth",
         "class": "Nécromancienne",
-        "level": 60,
+       
         "bio": "Lyvia Hastingworth est une nécromancienne originaire de Sanctuaire, connue pour sa maîtrise de la magie des os, son passé marqué par la solitude et son implication dans des événements liés aux récentes instabilités dimensionnelles",
         "stats": {
             "strength": 20,
