@@ -4,7 +4,7 @@
         "name": "Lyvia Hastingworth",
         "class": "Nécromancienne",
         "level": 60,
-        "bio": "Nécromancienne manipulant les forces obscures. Elle possède un teint porcelaine, des yeux gris acier/bleu turquoise et une longue chevelure noire.",
+        "bio": "Lyvia Hastingworth est une nécromancienne originaire de Sanctuaire, connue pour sa maîtrise de la magie des os, son passé marqué par la solitude et son implication dans des événements liés aux récentes instabilités dimensionnelles",
         "stats": {
             "strength": 20,
             "magic": 98,
@@ -23,12 +23,12 @@
         },
         "history": [
             {
-                "title": "Chapitre 1 : L'Éveil du Nécromant",
-                "content": "Née dans les cryptes de l'ancien monde, Lyvia a toujours senti l'appel des morts. Son premier contact avec l'au-delà fut..."
+                "title": "Origines et enfance",
+                "content": "Lyvia Hastingworth naît dans un foyer où elle n’est ni désirée ni aimée. Bien que son nom de famille soit authentiquement le sien, il n’a jamais été porté avec fierté par sa famille. À l’âge de 14 ans, elle découvre qu’elle n’a jamais été voulue. Cette révélation la pousse à quitter le foyer familial définitivement et à survivre seule, errant entre villages hostiles et terres corrompues de Sanctuaire."
             },
             {
-                "title": "Chapitre 2 : La Chute",
-                "content": "Lors de la grande guerre, elle tenta de sauver son village en relevant les ancêtres, mais le prix à payer fut terrible..."
+                "title": "Rencontre avec Lancaster Hargrave",
+                "content": "Dans ses errances, Lyvia tombe sur Lancaster Hargrave, un nécromancien au passé marqué par les pactes démoniaques. Hargrave reconnaît sa détermination et l’adopte symboliquement comme élève. Il devient pour elle une figure paternelle, lui apprenant la nécromancie mais aussi l’autodéfense rapprochée, dans un style proche du krav maga."
             }
         ]
     },
