@@ -3,18 +3,22 @@
         "id": 1,
         "name": "Lyvia Hastingworth",
         "class": "Nécromancienne",
-       
         "bio": "Lyvia Hastingworth est une nécromancienne originaire de Sanctuaire, connue pour sa maîtrise de la magie des os, son passé marqué par la solitude et son implication dans des événements liés aux récentes instabilités dimensionnelles",
         "stats": {
             "strength": 20,
             "magic": 98,
             "agility": 40
         },
+        "capacities": [
+            "Coup de fléau",
+            "Attaque mental",
+            "Nécrocection"
+        ],
         "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/Lyvia_5.jpeg",
         "details": {
             "full_name": "Lyvia Elsinore Selene Hastingworth",
             "origin": "Sanctuaire",
-            "origin_town":"Kyovashad",
+            "origin_town": "Kyovashad",
             "age": "29 ans",
             "status": "Morte (Réssuscitée sous l’influence du Vide)",
             "allies": "Pentragon Perceval Pembroke, Eowyn Kaldira, Xal’atath (sous influence)",
@@ -47,11 +51,16 @@
             "magic": 20,
             "agility": 60
         },
+        "capacities": [
+            "Frappe héroïque",
+            "Mur de bouclier",
+            "Cri de guerre"
+        ],
         "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/pentragon.jpeg",
         "details": {
             "full_name": "Pentragon Perceval Pembroke",
             "origin": "Azeroth",
-            "origin_town":"Hurlevent",
+            "origin_town": "Hurlevent",
             "age": "44 ans (War Within) + 6 retour Sanctuaire",
             "status": "Mort (Réssuscité par Lyvia)",
             "allies": "Adorhlee Lockwood, Theodora Rutherford, Alisthair Lockwood, Lyvia Hastingworth",
@@ -80,11 +89,16 @@
             "magic": 95,
             "agility": 40
         },
+        "capacities": [
+            "Soins rapides",
+            "Mot de pouvoir: Bouclier",
+            "Lumière sacrée"
+        ],
         "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/adorhlee.png",
         "details": {
             "full_name": "Adorhlee Annya Lockwood",
             "origin": "Azeroth",
-            "origin_town":"Hurlevent",
+            "origin_town": "Hurlevent",
             "age": "29 ans (War Within)",
             "status": "Vivante",
             "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
@@ -109,11 +123,16 @@
             "magic": 95,
             "agility": 40
         },
+        "capacities": [
+            "Marteau de la justice",
+            "Consécration",
+            "Bouclier divin"
+        ],
         "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/alisthair.jpeg",
         "details": {
             "full_name": "Alisthair Ignatius Lockwood",
             "origin": "Azeroth",
-            "origin_town":"Hurlevent",
+            "origin_town": "Hurlevent",
             "age": "29 ans (War Within)",
             "status": "Vivante",
             "allies": "Anduin Wrynn, Pentragon, Theodora, Alisthair, Xal’atath (sous influence)",
@@ -138,11 +157,16 @@
             "magic": 95,
             "agility": 40
         },
+        "capacities": [
+            "Attaque sournoise",
+            "Disparition",
+            "Éviscération"
+        ],
         "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/theodora.jpeg",
         "details": {
             "full_name": "Theodora Rutherford",
             "origin": "Azeroth",
-            "origin_town":"Hurlevent",
+            "origin_town": "Hurlevent",
             "age": "29 ans (War Within)",
             "status": "Vivante",
             "allies": "Pentragon, Adorhlee, Alisthair, Xal’atath (sous influence)",
@@ -167,11 +191,16 @@
             "magic": 95,
             "agility": 40
         },
+        "capacities": [
+            "Trait de l'ombre",
+            "Peur",
+            "Invocation de diablotin"
+        ],
         "image": "https://raw.githubusercontent.com/AnthonyPreite/Chronicle-Of-Champion/main/Images/sylvara.jpg",
         "details": {
             "full_name": "Sylvara Madeleon",
             "origin": "Azeroth",
-            "origin_town":"Hurlevent",
+            "origin_town": "Hurlevent",
             "age": "29 ans (War Within)",
             "status": "Vivante",
             "allies": "Pentragon, Adorhlee, Alisthair, Xal’atath (sous influence)",
